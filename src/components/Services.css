@@ -1,0 +1,46 @@
+.services {
+  padding: 60px 0;
+}
+
+.services .icon-box {
+  background: #fff;
+  border-radius: 10px;
+  padding: 30px;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease-in-out;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.services .icon {
+  font-size: 48px;
+  margin-bottom: 20px;
+  color: #3fbbc0;
+}
+
+.services .icon-box h4 {
+  font-weight: 700;
+  margin-bottom: 15px;
+  font-size: 24px;
+}
+
+.services .icon-box ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.services .icon-box ul li {
+  margin-bottom: 10px;
+}
+
+.services .icon-box:hover {
+  transform: translateY(-10px);
+}
+
+.icon-box {
+  height: 100%; /* Ensure all cards are the same height */
+  width: 100%;
+}
