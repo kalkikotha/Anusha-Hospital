@@ -51,7 +51,7 @@ const Services = () => {
                                 <li>Chikungunya</li>
                                 <li>Dengue</li>
                                 <li>Tuberculosis</li>
-                                <li>Jaundice</li>
+                                <li>Hepatocellular/Liver disorders</li>
                             </ul>
                         </div>
                     </div>
@@ -112,7 +112,9 @@ const Services = () => {
                             <div class="icon"><i class="bi bi-droplet-half"></i></div>
                             <h4><a href="">Renal and Urinary System</a></h4>
                             <ul>
-                                <li>Renal Issues Treatment</li>
+                                <li>Urinary Tract Infection</li>
+                                <li>Kidney Stones</li>
+                                <li>urinary Incontinence</li>
                             </ul>
                         </div>
                     </div>
@@ -123,7 +125,9 @@ const Services = () => {
                             <div class="icon"><i class="fa fa-tint"></i></div>
                             <h4><a href="">Hematological and Blood Disorders</a></h4>
                             <ul>
-                                <li>Bleeding Management</li>
+                                <li>Anemia</li>
+                                <li>Decreased Platelets</li>
+                                <li>Heavy Bleeding Disorder</li>
                             </ul>
                         </div>
                     </div>

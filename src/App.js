@@ -8,10 +8,12 @@ import Gallery from './components/Gallery';
 import Testimonials from './components/Testimonials';
 import Footer from './components/Footer';
 import Facilities from './components/Facilities';
+import Hero from './components/Hero'
 function App() {
   return (
     <div className="App">
       <Topbar />
+      <Hero />
       <About />
       <Services />
       <Facilities />

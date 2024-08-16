@@ -4,7 +4,7 @@ import './bootstrap.min.css'
 // import './aos.css'
 const Facilities = () => {
     return (
-        <section id="services" class="services section">
+        <section id="facilities" class="services section">
 
             <div class="container section-title" data-aos="fade-up">
                 <h2>Facilities</h2>

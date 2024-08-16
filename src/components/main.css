@@ -1653,6 +1653,8 @@
   --------------------------------------------------------------*/
   .contact .info-item+.info-item {
     margin-top: 40px;
+    display: flex;
+    flex-direction: row;
   }
   
   .contact .info-item i {

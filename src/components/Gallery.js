@@ -22,7 +22,7 @@ import gallery6 from '../images/gallery6.jpeg'
 const Gallery = () => {
     return (
 
-        <section id="testimonials" className="testimonials section">
+        <section id="gallery" className="testimonials section">
             <div className="container section-title" data-aos="fade-up">
                 <h2>Gallery</h2>
                 <p>Explore Our State-of-the-Art Facility.</p>
