@@ -1,6 +1,6 @@
 {
   "name": "app",
-  "homepage": "https://anushahospital.in/",
+  "homepage": "https://anushahospital.in",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
