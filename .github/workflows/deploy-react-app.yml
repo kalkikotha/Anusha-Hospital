@@ -10,7 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     env:
       EXAMPLE: example # environment variable
-
+      CI: false # Disable treating warnings as errors
+      
     steps:
       # checkout the repository content to github runner
       - name: Checkout
