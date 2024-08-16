@@ -16,7 +16,7 @@
 .carousel-container {
   width: 100%;
   max-width: 1200px;
-  max-height: 500px;
+  height: 500px;
   margin: 0 auto;
 }
 
@@ -95,8 +95,11 @@
 }
 
 @media (max-width: 576px) {
+  .carousel-container{
+    height: 90vh;
+  }
   .carousel-content {
-    top: 10px;
+    top: 50px;
     left: 10px;
     right: 10px;
     padding: 10px;
