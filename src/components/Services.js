@@ -7,7 +7,7 @@ const Services = () => {
     return (
 
         <section id="services" class="services section-bg">
-            <div class="container">
+            <div class="container" style={{ backgroundColor: 'rgba(63, 187, 192, 0.25)', paddingTop:'30px',  paddingBottom:'10px' }}>
                 <div class="section-title">
                     <h2>Our Services</h2>
                     <p>We offer a wide range of medical services to meet the needs of our patients.</p>

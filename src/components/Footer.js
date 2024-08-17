@@ -8,7 +8,7 @@ const Footer = () => {
 
             <div class="container footer-top">
                 <div class="row gy-4">
-                    <div class="col-lg-3 col-md-6 footer-about">
+                    <div class="col-lg-4 col-md-6 footer-about">
                         <a href="index.html" class="logo d-flex align-items-center">
                             <img src={HospitalLogo} alt='Hospital logo' />
                         </a>
@@ -26,7 +26,7 @@ const Footer = () => {
                         </div>
                     </div>
 
-                    <div class="col-lg-3 col-md-3 footer-links">
+                    <div class="col-lg-4 col-md-3 footer-links">
                         <h4>Useful Links</h4>
                         <ul>
                             <li><a href="#">Home</a></li>
@@ -36,7 +36,7 @@ const Footer = () => {
                         </ul>
                     </div>
 
-                    <div class="col-lg-3 col-md-3 footer-links">
+                    {/* <div class="col-lg-3 col-md-3 footer-links">
                         <h4>Speciality</h4>
                         <ul>
                             <li><a href="#">Specialist1</a></li>
@@ -44,9 +44,9 @@ const Footer = () => {
                             <li><a href="#">Specialist1</a></li>
                             <li><a href="#">Specialist1</a></li>
                         </ul>
-                    </div>
+                    </div> */}
 
-                    <div class="col-lg-3 col-md-3 footer-links">
+                    <div class="col-lg-4 col-md-3 footer-links">
                         <h4>Opening hours</h4>
                         <ul>
                             <li><a style={{ fontWeight: 'bold' }}>Mon-Sat: 09:00am - 01:00pm</a></li>

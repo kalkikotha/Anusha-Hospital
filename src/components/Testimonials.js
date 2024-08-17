@@ -21,7 +21,7 @@ const Testimonials = () => {
     return (
 
         <section id="testimonials" class="testimonials section">
-            <div class="container">
+            <div class="container" >
                 <div class="row align-items-center">
 
                     <div class="col-lg-5 info" data-aos="fade-up" data-aos-delay="100">
@@ -48,7 +48,7 @@ const Testimonials = () => {
                                 // navigation={true}
                                 modules={[Autoplay, Pagination, Navigation]}
                                 className="mySwiper"
-                                style={{maxHeight:'500px'}}
+                                style={{ maxHeight: '500px' }}
                             >
                                 <div class="swiper-wrapper" >
 
