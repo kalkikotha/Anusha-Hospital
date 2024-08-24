@@ -36,7 +36,7 @@ const Topbar = () => {
                             <li><a href="#gallery">Gallery</a></li>
                             <li><a href="#contact">Contact</a></li>
                         </ul>
-                        <i className="mobile-nav-toggle d-xl-none bi bi-list"></i>
+                      //  <i className="mobile-nav-toggle d-xl-none bi bi-list"></i>
                     </nav>
 
                     <a className="cta-btn d-none d-sm-block" style={{ backgroundColor: 'white', color: "#3fbbc0" }} href="#appointment">Make an Appointment</a>
